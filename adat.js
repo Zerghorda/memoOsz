@@ -41,4 +41,4 @@ export const KEPEKLISTA = [
   "kepek/kep20.jpg",
 ];
 const kivalasztotKepekLista = [];
-//szorg forgat ,eltün azonos képek, befejezni
+//szorg forgat ,eltün azonos képek, befejezni kép elérés event.detailt.getAdat()
